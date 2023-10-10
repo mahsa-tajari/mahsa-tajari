@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahsa</h1>
 <h3 align="center">A frontend developer from Iran.</h3>
 
-- 🔭 I’m currently working on **mymovie project**
+- 🔭 I’m currently learning on **React js**
 
 - 📫 How to reach me **khodemahsatjr@gmail.com**
 
