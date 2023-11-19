@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning **React js**
 
-- 📫 How to reach me **khodemahsatjr@gmail.com**
+- 📫 Connect to me at **khodemahsatjr@gmail.com**
 
 - <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telgram" width="20" height="20"/> **https://t.me/khodemahsatjr**
 
