@@ -4,8 +4,6 @@
 
 - <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telgram" width="20" height="20"/> **https://t.me/khodemahsatjr**
 
-👩‍💻 About Me
-
 
 🔧 Skills & Technologies
 
