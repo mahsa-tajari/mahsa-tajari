@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahsa</h1>
 
-- 📫 Connect to me at **khodemahsatjr@gmail.com**
-
-- <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telgram" width="20" height="20"/> **https://t.me/khodemahsatjr**
-
 
 🔧 Skills & Technologies
 
